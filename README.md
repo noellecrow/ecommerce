@@ -24,3 +24,5 @@ THEN I am able to successfully create, update, and delete data in my database
 - Express
 
 ## Video
+
+https://www.kapwing.com/videos/6265ac88f9921900a9f6ba85 
